@@ -54,3 +54,9 @@ a{
     text-decoration: none;
     font-weight: bold;
 }
+
+@media(max-width:650px){
+    .contenedorIMG{
+        width:70%
+    }
+}
