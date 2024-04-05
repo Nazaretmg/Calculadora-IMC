@@ -44,10 +44,6 @@ img{
     width: 600px;
 }
 
-.contenedorIMG{
-    text-align: center;
-    margin-top: 80px;
-}
 
 a{
     color: rgb(92, 93, 155);
@@ -55,8 +51,11 @@ a{
     font-weight: bold;
 }
 
-@media(max-width:650px){
-    .contenedorIMG{
-        width:70%
-    }
+.img-fluid{
+    margin-top: 80px;
 }
+/*
+@media(max-wdith: 576px){
+    img{width:80%;}
+}
+*/
