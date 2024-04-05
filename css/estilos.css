@@ -48,3 +48,9 @@ img{
     text-align: center;
     margin-top: 80px;
 }
+
+a{
+    color: rgb(92, 93, 155);
+    text-decoration: none;
+    font-weight: bold;
+}
